@@ -1,0 +1,9 @@
+export './before_login/presentation/pages/before_login_page.dart';
+export './home/presentation/pages/home_page.dart';
+export './splash/presentation/pages/splash_page.dart';
+export './login/presentation/pages/login_page.dart';
+export './article_detail/presentation/pages/article_detail_page.dart';
+export './verification_option/presentation/pages/verification_option_page.dart';
+export './verification_otp/presentation/pages/verification_otp_page.dart';
+export './profile/presentation/pages/profile_page.dart';
+export './main/presentation/pages/main_page.dart';
