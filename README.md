@@ -4,7 +4,7 @@ A Flutter application built with modern architecture patterns including BLoC sta
 
 ## Prerequisites
 
-- **Flutter SDK**: 3.9.0 or higher
+- **Flutter Version**: 3.35.0 or higher
 - **Dart SDK**: 3.9.0 or higher
 - **Android Studio** or **VS Code** with Flutter extensions
 - **Xcode** (for iOS development on macOS)
@@ -37,6 +37,15 @@ dart run build_runner build --delete-conflicting-outputs
 ```bash
 flutter run
 ```
+
+## Default Login Credentials
+
+For testing and development purposes, use these default credentials:
+
+- **Email**: test@godigi.com
+- **Password**: 123456
+- **OTP Email**: 4321
+- **OTP SMS**: 1234
 
 ## Project Structure
 
