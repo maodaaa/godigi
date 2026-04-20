@@ -8,7 +8,7 @@
       "patch_strategy": "prompt"  
     },
     "latest_version": {
-      "version": "1.1.12",
+      "version": "1.1.13",
       "min_patch": 0,
       "current_patch": 1,
       "patch_strategy": "prompt"  
