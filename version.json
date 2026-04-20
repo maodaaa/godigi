@@ -3,9 +3,9 @@
   "android": {
     "min_version": {
       "version": "1.1.13",
-      "min_patch": 0,
+      "min_patch": 1,
       "current_patch": 1,
-      "patch_strategy": "prompt"  
+      "patch_strategy": "force"  
     },
     "latest_version": {
       "version": "1.1.13",
