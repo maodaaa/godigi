@@ -2,16 +2,16 @@
   "shorebird_enabled": true,
   "android": {
     "min_version": {
-      "version": "1.1.14",
+      "version": "1.1.15",
       "min_patch": 0,
       "current_patch": 0,
       "patch_strategy": "prompt"  
     },
     "latest_version": {
-     "version": "1.1.14",
-      "min_patch": 15,
-      "current_patch": 15,
-      "patch_strategy": "silent"  
+     "version": "1.1.15",
+      "min_patch": 1,
+      "current_patch": 1,
+      "patch_strategy": "prompt"  
     },
     "store_url": "https://play.google.com/store/apps/details?id=com.injourneyairports.experia"
   },
