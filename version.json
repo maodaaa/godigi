@@ -9,9 +9,9 @@
     },
     "latest_version": {
      "version": "1.1.14",
-      "min_patch": 13,
-      "current_patch": 13,
-      "patch_strategy": "prompt"  
+      "min_patch": 14,
+      "current_patch": 14,
+      "patch_strategy": "force"  
     },
     "store_url": "https://play.google.com/store/apps/details?id=com.injourneyairports.experia"
   },
