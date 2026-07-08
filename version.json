@@ -2,31 +2,31 @@
   "shorebird_enabled": true,
   "android": {
     "min_version": {
-      "version": "1.1.13",
+      "version": "1.0.1",
       "min_patch": 0,
-      "current_patch": 0,
-      "patch_strategy": "prompt"  
+      "current_patch": 1,
+      "patch_strategy": "prompt"
     },
     "latest_version": {
-     "version": "1.1.13",
+      "version": "1.0.1",
       "min_patch": 0,
-      "current_patch": 0,
-      "patch_strategy": "prompt"  
+      "current_patch": 1,
+      "patch_strategy": "prompt"
     },
     "store_url": "https://play.google.com/store/apps/details?id=com.injourneyairports.experia"
   },
   "ios": {
     "min_version": {
-      "version": "1.1.17",
+      "version": "1.0.1",
       "min_patch": 0,
-      "current_patch": 0,
-      "patch_strategy": "prompt"  
+      "current_patch": 1,
+      "patch_strategy": "prompt"
     },
     "latest_version": {
-     "version": "1.1.17",
+      "version": "1.0.1",
       "min_patch": 0,
-      "current_patch": 0,
-      "patch_strategy": "prompt"  
+      "current_patch": 1,
+      "patch_strategy": "prompt"
     },
     "store_url": "https://apps.apple.com/id/app/experia-apps/id6759267823"
   }
